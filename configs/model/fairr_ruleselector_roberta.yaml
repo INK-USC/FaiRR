@@ -1,0 +1,6 @@
+model: fairr_ruleselector
+arch: roberta_large
+hf_name: roberta-large
+padding: 1
+CEloss: True
+stopcls: True

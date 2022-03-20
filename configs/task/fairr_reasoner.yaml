@@ -1,0 +1,14 @@
+# @package _global_
+defaults:
+  - override /scheduler: fixed
+  - override /optimizer: adafactor
+  - override /model: fairr_reasoner_t5large
+  - override /setup: rtx_8000_b16_a4
+
+seed: 42
+max_epochs: 10
+learning_rate: 1e-3
+save_checkpoint: True
+weight_decay: 0.0
+fp16: False
+num_workers: 0

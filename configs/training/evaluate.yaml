@@ -1,0 +1,2 @@
+evaluate_ckpt: True
+eval_splits: 'test'   # comma separated (no space). E.g., train,dev,test

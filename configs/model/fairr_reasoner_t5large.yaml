@@ -1,0 +1,4 @@
+model: fairr_reasoner
+arch: t5_large
+hf_name: t5-large
+padding: 0

@@ -1,0 +1,6 @@
+train_batch_size: 32
+eval_batch_size: 32
+accumulate_grad_batches: 1
+num_workers: 8
+fp16: False
+gpus: 1

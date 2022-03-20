@@ -1,0 +1,12 @@
+# @package _global_
+defaults:
+  - override /scheduler: linear_with_warmup
+  - override /model: fairr_factselector_roberta
+  - override /setup: rtx_8000_b32_a1
+
+seed: 42
+max_epochs: 10
+learning_rate: 1e-5
+save_checkpoint: True
+adam_epsilon: 1e-6
+weight_decay: 0.01

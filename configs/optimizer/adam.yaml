@@ -1,0 +1,3 @@
+optimizer: adam
+weight_decay: 0.0
+adam_epsilon: 1e-8

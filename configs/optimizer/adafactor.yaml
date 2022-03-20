@@ -1,0 +1,2 @@
+optimizer: adafactor
+weight_decay: 0.01

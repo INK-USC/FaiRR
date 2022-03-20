@@ -1,0 +1,4 @@
+optimizer: adamw
+weight_decay: 0.01
+adam_epsilon: 1e-8
+gradient_clip_val: 0 #clips the norm of the gradient at the value, default is 0 ie don't clip

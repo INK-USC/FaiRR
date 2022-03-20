@@ -1,0 +1,12 @@
+# @package _global_
+defaults:
+  - override /scheduler: fixed
+  - override /model: fairr_inference
+  - override /setup: rtx_8000_b32_a1
+
+seed: 42
+max_epochs: 10
+learning_rate: 1e-3
+save_checkpoint: True
+adam_epsilon: 1e-6
+weight_decay: 0.0

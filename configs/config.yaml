@@ -1,0 +1,10 @@
+defaults:
+  - scheduler: linear_with_warmup
+  - optimizer: adamw
+  - model: fairr_ruleselector_roberta
+  - dataset: pwq_leq_0to3_OWA_rule
+  - setup: rtx_8000_b32_a1
+  - training: base
+  - task: fairr_ruleselector
+  - override /hydra/job_logging: none
+  - override /hydra/hydra_logging: none

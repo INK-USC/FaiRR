@@ -1,0 +1,4 @@
+dataset: pwq_leq_0to3_OWA_rule
+train_dataset: pwq_leq_0to3_OWA_rule
+dev_dataset: pwq_leq_0to3_OWA_rule
+test_dataset: pwq_leq_0to3_OWA_rule

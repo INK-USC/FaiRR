@@ -1,0 +1,4 @@
+model: fairr_factselector
+arch: roberta_large
+hf_name: roberta-large
+padding: 1

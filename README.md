@@ -3,7 +3,7 @@
 
 ![Screenshot 2021-11-16 at 1 57 54 PM](example_theory.png)
 
-Above figure shows an example of the reasoning task that we aim to solve using our modular reasoning model, FaiRR.
+Above figure shows an example of the deductive reasoning task that we aim to solve using our modular reasoning model FaiRR.
 
 ![Screenshot 2021-11-16 at 3 28 04 PM](fairr_overview.png)
 

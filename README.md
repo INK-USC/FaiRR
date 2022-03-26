@@ -1,4 +1,4 @@
-# FaiRR: Faithful and Robust Deductive Reasoning over Natural Language
+# FaiRR: Faithful and Robust Deductive Reasoning over Natural Language [[paper]](https://arxiv.org/abs/2203.10261)
 
 
 ![Screenshot 2021-11-16 at 1 57 54 PM](example_theory.png)

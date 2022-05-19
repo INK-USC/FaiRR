@@ -1,11 +1,14 @@
 # FaiRR: Faithful and Robust Deductive Reasoning over Natural Language [[paper]](https://arxiv.org/abs/2203.10261)
 
-
-![Screenshot 2021-11-16 at 1 57 54 PM](example_theory.png)
+<p align="center">
+  <img width="460" height="460" src="example_theory.png">
+</p>
 
 Above figure shows an example of the deductive reasoning task that we aim to solve using our modular reasoning model FaiRR.
 
-![Screenshot 2021-11-16 at 3 28 04 PM](fairr_overview.png)
+<p align="center">
+  <img src="fairr_overview.png">
+</p>
 
 Above figure depicts the overview of the FaiRR architecture which comprises of 3 independent modules.
 
